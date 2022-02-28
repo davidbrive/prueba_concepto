@@ -1,0 +1,12 @@
+.card {
+  width: 100%;
+}
+.card__title {
+  text-align: center;
+}
+.card__container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
